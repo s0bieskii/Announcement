@@ -1,4 +1,4 @@
-package com.learn.kotlin.domain.technology
+package com.learn.kotlin.domain.model.technology
 
 import java.util.*
 

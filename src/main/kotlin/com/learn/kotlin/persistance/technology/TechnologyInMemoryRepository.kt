@@ -1,6 +1,6 @@
 package com.learn.kotlin.persistance.technology
 
-import com.learn.kotlin.domain.technology.Technology
+import com.learn.kotlin.domain.model.technology.Technology
 import org.springframework.stereotype.Repository
 import java.util.*
 import java.util.concurrent.ConcurrentHashMap

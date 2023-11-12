@@ -1,4 +1,4 @@
-package com.learn.kotlin.domain.announcement
+package com.learn.kotlin.domain.model.announcement
 
 import java.util.*
 

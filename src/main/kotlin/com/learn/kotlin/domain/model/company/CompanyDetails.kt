@@ -1,4 +1,4 @@
-package com.learn.kotlin.domain.company
+package com.learn.kotlin.domain.model.company
 
 import java.util.*
 

@@ -1,4 +1,4 @@
-package com.learn.kotlin.domain.user
+package com.learn.kotlin.domain.model.user
 
 import java.util.*
 

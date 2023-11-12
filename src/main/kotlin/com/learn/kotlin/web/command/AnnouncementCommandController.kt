@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController
 import java.util.*
 
 @RestController
-class AnnouncementController (val announcementService: AnnouncementService) {
+class AnnouncementCommandController (val announcementService: AnnouncementService) {
 
 
     @GetMapping("/index")

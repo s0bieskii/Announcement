@@ -1,6 +1,6 @@
 package com.learn.kotlin.persistance.company
 
-import com.learn.kotlin.domain.company.Company
+import com.learn.kotlin.domain.model.company.Company
 import org.springframework.stereotype.Service
 import java.util.*
 import java.util.concurrent.ConcurrentHashMap

@@ -1,6 +1,6 @@
 package com.learn.kotlin.services.announcement.dto
 
-import com.learn.kotlin.domain.announcement.ContractType
+import com.learn.kotlin.domain.model.announcement.ContractType
 
 data class AnnouncementDetailsDto(
     var technologyNames: List<String>,
